@@ -1,1 +1,3 @@
-# Mission-to-Mars
+# Mission to Mars Web Scraping and Design
+
+### In this project, we utilized flask, pymongo, splinter, and beautiful soup to pull information about mars from different places around the net and compiled them into an easy to read web page. Through the use of mongoDB we were able to store all of our data that was scraped and add it in to one easily accessible place. We then used bootstrap3 to clean up the data that we received to make it more visually pleasing and created a button that would allow users to run the script that was created in order to get the most up-to-date news and images.
